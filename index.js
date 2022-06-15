@@ -1082,7 +1082,7 @@ module.exports = {
   ema, macd, lsma, don, ichimoku, bands, bandwidth, median, keltner,
   std, cor, dif, hull, mfi, roc, kst, obv, vwap, mom, mom_osc, ha, ren,
   bop, cop, kama, mad, aad, variance, ssd, pwma, hwma, kmeans, drawdown,
-  normalize, denormalize, wrsi, wsma, normsinv, ncdf, sim, multi, percentile,
+  normalize, denormalize, wrsi, wsma, normsinv, ncdf, sim, percentile,
   envelope, chaikin_osc, fractals, recent_high, recent_low, support,
   resistance, ac, fib, alligator, gator, standardize, er, winratio,
   avgwin, avgloss, fisher, cross, se, kelly, normalize_pair, normalize_from,
